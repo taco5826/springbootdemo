@@ -2,3 +2,5 @@
     pageEncoding="UTF-8"%>
 
 <jsp:include page="layout/default.jsp"/>
+
+<h1>這是首頁</h1>
